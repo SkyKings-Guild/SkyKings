@@ -1,10 +1,7 @@
 # SkyKings
 SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 
-<dl>
-    <script src="https://discordbotlist.com/widget/index.js" async></script>
-    <dbl-widget bot-id="bot-skykings" centered></dbl-widget>
-</dl>
+[![Discord Bot List](https://discordbotlist.com/bots/skykings/widget)](https://discordbotlist.com/bots/skykings)
 
 
 ## Features
