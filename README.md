@@ -1,8 +1,11 @@
 # SkyKings
 SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 
-<script src="https://discordbotlist.com/widget/index.js" async></script>
-<dbl-widget bot-id="bot-skykings" centered></dbl-widget>
+<dl>
+    <script src="https://discordbotlist.com/widget/index.js" async></script>
+    <dbl-widget bot-id="bot-skykings" centered></dbl-widget>
+</dl>
+
 
 ## Features
 - IRL Trading & Scammer detection
