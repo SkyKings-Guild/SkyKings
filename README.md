@@ -7,7 +7,7 @@ SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 ## Features
 - IRL Trading & Scammer detection
     
-    - If a irl trader / scammer is in our system, it will send a message to all servers that person is in, with possible bans from those servers!
+    - If a irl trader / scammer is in our system, it will send a message to all servers that person is in!
     
 - Verification System
 
@@ -22,12 +22,28 @@ SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
     - You can sell items that will be shown in all servers the bot is in!
     
     - You can also create a guild-specific shop!
-    
-## Soon™
 
 - Global Events System
 
-    - The bot owners will be able to start an event and have it sent to every server that has the bot properly configured!
+    - The bot owners can start an event and have it sent to every server that has the bot properly configured!
+
+- Hypixel Server Status
+
+    - Server owners can setup the bot to send status updates from [status.hypixel.net](https://status.hypixel.net) to a channel with an optional ping!
+
+- Guild Requirements
+
+    - You can check how many people in a guild are under GEXP requirements with our `gexp` command!
+
+## Soon™
+
+- Guild Requirements
+
+    - Servers that are linked to a Hypixel guild will be able to setup requirements and check if members meet those requirements!
+
+- Skyblock Player Info
+
+    - Commands to view information of some SkyBlock players!
 
 ## Resources
 - [Bot Invite](https://discord.com/oauth2/authorize?client_id=797974550834053203&scope=bot&permissions=402934848)
