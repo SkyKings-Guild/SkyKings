@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support Server
+    url: https://discord.gg/XqUQBqTh27
+    about: Please ask and answer questions here.
+    
+  - name: Bot Invite
+    url: https://discord.com/oauth2/authorize?client_id=797974550834053203&scope=bot&permissions=402934848
+    about: Add the bot to your own server.
