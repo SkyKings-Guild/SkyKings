@@ -46,9 +46,9 @@ SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 
     - Commands to view information of some SkyBlock players!
 
-## Bugs
+## Other Information
 
-If you have found a bug within the bot, feel free to report it to our [Support Server](https://discord.gg/XqUQBqTh27), or on our [Issue Tracker](https://github.com/plun1331/SkyKings/issues)
+If you have found a bug within the bot, feel free to report it to our [Support Server](https://discord.gg/XqUQBqTh27), or on our [Issue Tracker](https://github.com/plun1331/SkyKings/issues). The same goes for suggestions.
 
 ## Resources
 - [Bot Invite](https://discord.com/oauth2/authorize?client_id=797974550834053203&scope=bot&permissions=402934848)
