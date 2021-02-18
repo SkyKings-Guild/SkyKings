@@ -7,11 +7,6 @@
 # SkyKings
 SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 
-[![Discord Bots](https://top.gg/api/widget/797974550834053203.svg)](https://top.gg/bot/797974550834053203)
-[![Discord Bot List](https://discordbotlist.com/bots/797974550834053203/widget)](https://discordbotlist.com/bots/797974550834053203)
-[![Discord Boats](https://discord.boats/api/widget/797974550834053203)](https://discord.boats/bot/797974550834053203)
-
-
 ## Features
 - IRL Trading & Scammer detection
     
@@ -63,3 +58,10 @@ If you have found a bug within the bot, feel free to report it to our [Support S
 - ["Documentation"](https://github.com/plun1331/SkyKings)
 - [Commands](https://github.com/plun1331/SkyKings/blob/main/commands.md)
 - [Configuration Guide](https://github.com/plun1331/SkyKings/blob/main/config.md)
+
+## Widgets
+[![Discord Bots](https://top.gg/api/widget/797974550834053203.svg)](https://top.gg/bot/797974550834053203)
+
+[![Discord Bot List](https://discordbotlist.com/bots/797974550834053203/widget)](https://discordbotlist.com/bots/797974550834053203)
+
+[![Discord Boats](https://discord.boats/api/widget/797974550834053203)](https://discord.boats/bot/797974550834053203)
