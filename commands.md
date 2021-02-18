@@ -17,6 +17,8 @@ Most of the time, if a multi-word argument is at the end of a command, this is n
 
 ## Verification
 
+Verification commands so you can link your Minecraft account to your Discord.
+
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
 | `verify` | `<player>` | Links your Minecraft account to your Discord via Hypixel. | `link` |
@@ -26,7 +28,7 @@ Most of the time, if a multi-word argument is at the end of a command, this is n
 
 ## Economy
 
-Most of the commands in this category cannot be used by scammers.
+Commands for buying and selling of items and/or services in Hypixel Skyblock.
 
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
@@ -48,6 +50,8 @@ Most of the commands in this category cannot be used by scammers.
 | `market info` | `<product id>` | Displays an item on the global market. | `information` |
 | `market buy` | `<product id>` | Requests to purchase an item off the global market. | `purchase`, `order` |
 | `market help` | | Displays help for the `market` command. | |
+
+## 
 
 
 
