@@ -4,11 +4,11 @@ SkyKings has a ton of commands that you can use. Here's a list of them all.
 Note: Do not literally type `<>` and `[]`
 
 ## How to Read
-Optional: [foo] means that this argument can be ignored.
+Optional: `[foo]` means that this argument can be ignored.
 
-Required: <foo> means that you must use this argument for the command to work
+Required: `<foo>` means that you must use this argument for the command to work
   
-Many: <foos...> or [foos...] means that you can specify more than one. 
+Many: `<foos...>` or `[foos...]` means that you can specify more than one. 
   
 Multi-word Arguments: If you wish you use an argument with more than one word, use "double quotes" to let the bot you know what you want.
 
