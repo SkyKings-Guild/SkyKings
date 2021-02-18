@@ -34,3 +34,13 @@ The list of valid keys is as follows:
 | `STATUS_PING` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role |
 
 There are currently 19 different configuration settings you can change.
+
+## Editing the Config
+
+Editing the config is quite simple. Simply run the `config edit` command with the key and value like so.
+
+Example: `k!config edit PREFIX !`
+
+## Linking a Guild
+
+As you may have noticed, the `IN_GUILD` setting requires you to link your server to a guild. This can easily be done with the `setup` command, which will take you through an interactive setup process.
