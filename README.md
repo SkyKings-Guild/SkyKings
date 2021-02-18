@@ -53,5 +53,6 @@ If you have found a bug within the bot, feel free to report it to our [Support S
 ## Resources
 - [Bot Invite](https://discord.com/oauth2/authorize?client_id=797974550834053203&scope=bot&permissions=402934848)
 - [Support Server](https://discord.gg/XqUQBqTh27)
+- ["Documentation"](https://github.com/plun1331/SkyKings)
 - [Commands](https://github.com/plun1331/SkyKings/blob/main/commands.md)
 - [Configuration Guide](https://github.com/plun1331/SkyKings/blob/main/config.md)
