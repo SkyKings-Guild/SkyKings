@@ -66,6 +66,7 @@ Useful commands for Hypixel SkyBlock.
 | `bazaar` | `<item>` | Displays an item from the bazaar. | `baz` |
 | `playercount` | | Displays the SkyBlock player count. | `pc` |
 | `slayers` | `<player>` | Displays a player's slayers. | |
+| `skills` | `<player>` | Displays a player's skills. | |
 
 ## Utility
 
