@@ -35,6 +35,11 @@ Most of the commands in this category cannot be used by scammers.
 | `shop info` | `<product id>` | Displays an item on the server's shop. | `information` | | |
 | `shop buy` | `<product id>` | Requests to purchase an item on the server's shop. | `purchase`, `order` | | |
 | `shop help` | | Displays help for the `shop` command. | | | `add reactions` |
+| `order` | | Main command for managing orders. | | | |
+| `order help` | | Displays help for the `order` command. | | | `add reactions` |
+| `order cancel` | `<order id>` | Cancels an order. This can only be used by the seller. | | | |
+| `order complete` | `<order id>` | Completes an order. This can only be used by the seller. | | | |
+| `market` | | View the global market. | | | `add reactions` |
 
 
 
