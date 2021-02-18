@@ -1,6 +1,6 @@
 <a href="https://discord.gg/XqUQBqTh27">
     <p align="center">
-        <img width="500" height="500" src="https://i.imgur.com/sPBmNZY.png" alt="SkyKings Logo">
+        <img width="300" height="300" src="https://i.imgur.com/sPBmNZY.png" alt="SkyKings Logo">
     </p>
 </a>
 
