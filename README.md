@@ -48,3 +48,4 @@ SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 ## Resources
 - [Bot Invite](https://discord.com/oauth2/authorize?client_id=797974550834053203&scope=bot&permissions=402934848)
 - [Support Server](https://discord.gg/XqUQBqTh27)
+- [Commands](/plun1331/SkyKings/blob/main/commands.md)
