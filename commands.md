@@ -1,6 +1,8 @@
 # Commands
 SkyKings has a ton of commands that you can use. Here's a list of them all.
 
+If you're looking for how to edit the bot's config, click [here](/config.md)
+
 Note: Do not literally type `<>` and `[]`
 
 Note: Aliases for subcommands will not contain the parent command.
