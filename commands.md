@@ -67,6 +67,9 @@ Useful commands for Hypixel SkyBlock.
 | `playercount` | | Displays the SkyBlock player count. | `pc` |
 | `slayers` | `<player>` | Displays a player's slayers. | |
 | `skills` | `<player>` | Displays a player's skills. | |
+| `searchauctions` | `<query>` | Displays a list of auctions that matched a search query. | `searchah` |
+| `lowestbin` | `<item>` | Displays the lowest BIN price for an item. | `lbin` |
+| `price` | `<item>` | Displays the price of an item. Uses `Jerry the Price Checker`'s database. | |
 
 ## Utility
 
@@ -76,6 +79,7 @@ A few useful commands that are just useful.
 |:-------:|:---------:|:-----------:|:-------:|
 | `gexp` | `<guild> <amount>` | Displays a list of users below a certain guild XP amount. | `guildxp`, `gxp` |
 | `status` | | Check the Hypixel server status. | |
+| `userinfo` | `<user>` | Displays information on a user. | `memberinfo`, `mi`, `ui` |
 
 ## Management
 
