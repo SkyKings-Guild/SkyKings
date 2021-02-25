@@ -32,6 +32,7 @@ The list of valid keys is as follows:
 | `EVENTS_PING` | The role to ping when an event is started. This requires `EVENTS` to be set. | Role |
 | `STATUS` | The channel to send Hypixel status updates to. | Text Channel |
 | `STATUS_PING` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role |
+| `GIVEAWAYS` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role |
 
 There are currently 19 different configuration settings you can change.
 
@@ -40,6 +41,8 @@ There are currently 19 different configuration settings you can change.
 Editing the config is quite simple. Simply run the `config edit` command with the key and value like so.
 
 Example: `k!config edit PREFIX !`
+
+If you want to remove a config setting, just do `k!config edit <setting> reset`.
 
 ## Linking a Guild
 
