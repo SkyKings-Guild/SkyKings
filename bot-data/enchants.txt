@@ -1,0 +1,87 @@
+Aiming==5
+Angler==6
+Aqua Affinity==1
+Bank==5
+Big Brain==5
+Blast Protection==7
+Blessing==5
+Bane of Arthropods==7
+Caster==6
+Chimera==5
+Cleave==6
+Combo==5
+Compact==10
+Critical==7
+Counter-Strike==5
+Cubism==6
+Cultivating==10
+Depth Strider==3
+Dragon Hunter==5
+Efficiency==6
+Ender Slayer==7
+Execute==6
+Experience==4
+Expertise==10
+Fire Aspect==2
+Feather Falling==10
+Fire Protection==7
+First Strike==5
+Flame==1
+Fortune==3
+Frail==6
+Frost Walker==2
+Giant Killer==7
+Growth==7
+Harvesting==5
+Impaling==3
+Infinite Quiver==10
+Knockback==2
+Last Stand==5
+Legion==5
+Lethality==6
+Life Steal==5
+Looting==5
+Luck of the Sea==6
+Luck==7
+Lure==6
+Magnet==6
+No Pain No Gain==5
+One For All==1
+Overload==5
+Piercing==1
+Power==7
+Projectile Protection==7
+Prosecute==6
+Protection==7
+Punch==2
+Rainbow==1
+Rejuvenate==5
+Rend==5
+Replenish==1
+Respiration==3
+Respite==5
+Scavenger==5
+Sharpness==7
+Silk Touch==1
+Smelting Touch==1
+Smite==7
+Snipe==4
+Soul Eater==5
+Spiked Hook==6
+Sugar Rush==3
+Swarm==5
+Syphon==5
+Telekinesis==1
+Thorns==3
+Thunderbolt==6
+Thunderlord==6
+Titan Killer==7
+Triple-Strike==5
+True Protection==1
+Turbo-Crop==5
+Ultimate Jerry==5
+Ultimate Wise==5
+Wisdom==5
+Vampirism==6
+Venomous==6
+Vicious==5
