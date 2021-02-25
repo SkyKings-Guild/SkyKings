@@ -110,6 +110,12 @@ Random commands that are somewhat useful.
 | `event info` | | Displays information on an event. | `information` |
 | `event start` | `<event type>` | Starts an event. | `begin` |
 | `event end` | | Ends an event. | |
+| `giveaway` | | Main giveaway command. | |
+| `giveaway help` | | Displays help for the `giveaway` command. | |
+| `giveaway start` | `<duration> <prize>` | Quickly starts a giveaway. | |
+| `giveaway make` | | Creates a giveaway with interactive setup. | |
+| `giveaway end` | `<giveaway>` | Ends a giveaway. | |
+| `giveaway reroll` | `<giveaway>` | Rerolls a giveaway. | |
 
 ## Meta
 
