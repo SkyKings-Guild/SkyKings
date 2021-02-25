@@ -32,7 +32,7 @@ The list of valid keys is as follows:
 | `EVENTS_PING` | The role to ping when an event is started. This requires `EVENTS` to be set. | Role |
 | `STATUS` | The channel to send Hypixel status updates to. | Text Channel |
 | `STATUS_PING` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role |
-| `GIVEAWAYS` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role |
+| `GIVEAWAYS` | The role that should be able to run giveaways. | Role |
 
 There are currently 19 different configuration settings you can change.
 
