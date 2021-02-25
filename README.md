@@ -40,13 +40,7 @@ SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 
 ## Soon™
 
-- Guild Requirements
-
-    - Servers that are linked to a Hypixel guild will be able to setup requirements and check if members meet those requirements!
-
-- Skyblock Player Info
-
-    - Commands to view information of some SkyBlock players!
+You can see our todo list [here](https://github.com/plun1331/SkyKings/projects/1).
 
 ## Other Information
 
