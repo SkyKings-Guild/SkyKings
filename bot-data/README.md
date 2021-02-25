@@ -2,3 +2,5 @@
 This folder contains some bot data that is used by the SkyKings bot.
 
 Most data on the bot is stored in a database, but we decided that putting the data here on GitHub would be the best choice.
+
+You may use this data for whatever you want, with no restriction.
