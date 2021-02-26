@@ -49,3 +49,25 @@ This database only exists while an event is running, and is immediatly deleted o
 | `MESSAGES` | `GUILD` | The ID of the server the message belongs to. | Used for updating the event message. |
 | `MESSAGES` | `CHANNEL` | The ID of the channel the message belongs to. | Used for updating the event message. |
 | `MESSAGES` | `MESSAGE` | The ID of the message to be updated. | Used for updating the event message. |
+
+## Giveaway
+
+Used for managing giveaways.
+
+Giveaways are deleted a week after their scheduled end date.
+
+| Table | Column | Description | Used For |
+|:-----:|:------:|:-----------:|:--------:|
+| `GIVEAWAYS` | `CHANNEL` | The ID of the channel that the message belongs to. | Used for retrieving the giveaway message. |
+| `GIVEAWAYS` | `MESSAGE` | The ID of the giveaway message. | Used for retrieving giveaway entries and updating the message once the giveaway ends. |
+| `GIVEAWAYS` | `PRIZE` | The giveaway's prize. | Used for editing the giveaway message once it ends, and providing the prize in the ending message. |
+| `GIVEAWAYS` | `ENDS` | The time that the giveaway ends. | Used for automatically ending the giveaway. |
+| `GIVEAWAYS` | `ENDCONTENT` | The message to be shown when the giveaway ends. | Used for showing the message when the giveaway ends. |
+| `GIVEAWAYS` | `CREATED` | The ID of the user who created the giveaway. |  Used for editing the giveaway message once it ends. |
+| `GIVEAWAYS` | `HOSTED` | The ID of the user that's sponsoring the giveaway. | Used for editing the giveaway message once it ends. |
+| `GIVEAWAYS` | `REQUIREMENTS` | The giveaway's requirements. | Not used at all, as it's not implemented yet. |
+| `GIVEAWAYS` | `CONTENT` | The message sent when the giveaway started. | Used for editing the giveaway message once it ends. |
+| `GIVEAWAYS` | `WINNERS` | The amount of winners the giveaway should have. | Used for choosing a number of winners. |
+| `GIVEAWAYS` | `ENDED` | Whether or not the giveaway is ended. | Used to decide whether or not it can be rerolled or ended. |
+| `GIVEAWAYS` | `GUILD` | The server the giveaway is in. | Used to decide whether or not you can end the giveaway, as the message converter works for messages in all servers. |
+
