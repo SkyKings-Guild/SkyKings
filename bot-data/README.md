@@ -10,7 +10,7 @@ You may use this data for whatever you want, with no restriction.
 | `bit-prices.json` | A list of every item on the bit store. |
 | `enchants.json` | A list of every enchantment and their maximum values. |
 | `item-aliases.json` | A list of aliases used by the SkyKings bot. | 
-| `items.txt` | A list of items and their IDs. |
+| `items.json` | A list of items and their IDs. |
 
 # scuffed faq
 
