@@ -99,3 +99,37 @@ Mostly guild configuration.
 | `GUILDS` | `HYPIXEL_STATUS` | The server's Hypixel status channel. | Used for bot configuration. |
 | `GUILDS` | `STATUS_ROLE` | The server's Hypixel status ping role. | Used for bot configuration. |
 | `GUILDS` | `GIVEAWAYS` | The server's giveaway role. | Used for bot configuration. |
+| `RANKS` | `GUILD` | The ID of the server the rank belongs to. | Used for guild rank syncing. |
+| `RANKS` | `ROLE` | The ID of the role the rank belongs to. | Used for guild rank syncing. |
+| `RANKS` | `RANK` | The name of the rank. | Used for guild rank syncing. |
+
+## Scammers
+
+The bot's scammer list.
+
+
+| Table | Column | Description | Used For |
+|:-----:|:------:|:-----------:|:--------:|
+| `PLAYERS` | `UUID` | The player's UUID. | Looking up scammers/IRL traders. |
+| `PLAYERS` | `REASON` | The reason the player is flagged as such | Looking up scammers/IRL traders. |
+| `PLAYERS` | `TYPE` | If the player is a scammer or an IRL trader | Looking up scammers/IRL traders. |
+| `PLAYERS` | `MOD` | The bot mod that added the scammer. | Nothing, yet. |
+| `PLAYERS` | `REMOVED` | Whether or not the entry was removed. | Used for deciding whether or not to show the entry. |
+| `PLAYERS` | `REMOVER` | The bot mod that removed the entry. | Nothing, yet. |
+| `PLAYERS` | `REMOVE_REASON` | The reason the entry was removed. | Nothing, yet. |
+| `PLAYERS` | `ID` | The entry ID. | Used for removing entries. |
+| `USERS` | `USER` | The user's ID. | Looking up scammers/IRL traders. |
+| `USERS` | `REASON` | The reason the player is flagged as such | Looking up scammers/IRL traders. |
+| `USERS` | `TYPE` | If the player is a scammer or an IRL trader | Looking up scammers/IRL traders. |
+| `USERS` | `MOD` | The bot mod that added the scammer. | Nothing, yet. |
+| `USERS` | `REMOVED` | Whether or not the entry was removed. | Used for deciding whether or not to show the entry. |
+| `USERS` | `REMOVER` | The bot mod that removed the entry. | Nothing, yet. |
+| `USERS` | `REMOVE_REASON` | The reason the entry was removed. | Nothing, yet. |
+| `USERS` | `ID` | The entry ID. | Used for removing entries. |
+
+## Verification
+
+Mainly for linking users to players.
+
+| `USERS` | `USER` | The ID of the user. | Checking if a user is linked, who a player is linked to, etc. |
+| `USERS` | `UUID` | The UUID of the player. | Checking if a player is linked, who a user is linked to, etc. |
