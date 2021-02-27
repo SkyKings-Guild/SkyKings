@@ -71,3 +71,31 @@ Giveaways are deleted a week after their scheduled end date.
 | `GIVEAWAYS` | `ENDED` | Whether or not the giveaway is ended. | Used to decide whether or not it can be rerolled or ended. |
 | `GIVEAWAYS` | `GUILD` | The server the giveaway is in. | Used to decide whether or not you can end the giveaway, as the message converter works for messages in all servers. |
 
+## Guilds
+
+Mostly guild configuration.
+
+| Table | Column | Description | Used For |
+|:-----:|:------:|:-----------:|:--------:|
+| `GUILDS` | `DISCORD` |  The ID of the server that the configuration belongs to. | Used for bot configuration. |
+| `GUILDS` | `GUILD` | The ID of the Hypixel guild that the server is linked to. | Used for bot configuration. |
+| `GUILDS` | `PREFIX` | The server's bot prefix. | Used for bot configuration. |
+| `GUILDS` | `VERIFIED` | The server's verified role. | Used for bot configuration. |
+| `GUILDS` | `VIP` | The server's VIP role. | Used for bot configuration. |
+| `GUILDS` | `VIP_P` | The server's VIP+ role. | Used for bot configuration. |
+| `GUILDS` | `MVP` | The server's MVP role. | Used for bot configuration. |
+| `GUILDS` | `MVP_P` | The server's MVP+ role. | Used for bot configuration. |
+| `GUILDS` | `MVP_PP` | The server's MVP++ role. | Used for bot configuration. |
+| `GUILDS` | `YT` | The server's YouTube Rank role. | Used for bot configuration. |
+| `GUILDS` | `STAFF` | The server's Hypixel Staff role. | Used for bot configuration. |
+| `GUILDS` | `STORE_CHANNEL` | The server's store channel. | Used for bot configuration. |
+| `GUILDS` | `IN_GUILD` | The server's role for guild members. | Used for bot configuration. |
+| `GUILDS` | `SETNICK` | Whether or not to change member's nicknames. | Used for bot configuration. |
+| `GUILDS` | `NICKPREFIX` | Whether or not to add a rank prefix to member's nicknames. | Used for bot configuration. |
+| `GUILDS` | `NOTIFICATIONS` | The server's scammer notification channel. | Used for bot configuration. |
+| `GUILDS` | `VERIFY` | Whether or not verification is enabled. | Used for bot configuration. |
+| `GUILDS` | `EVENTS` | The server's event channel. | Used for bot configuration. |
+| `GUILDS` | `EVENTS_ROLE` | The server's event ping role. | Used for bot configuration. |
+| `GUILDS` | `HYPIXEL_STATUS` | The server's Hypixel status channel. | Used for bot configuration. |
+| `GUILDS` | `STATUS_ROLE` | The server's Hypixel status ping role. | Used for bot configuration. |
+| `GUILDS` | `GIVEAWAYS` | The server's giveaway role. | Used for bot configuration. |
