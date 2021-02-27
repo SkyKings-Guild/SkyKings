@@ -70,8 +70,7 @@ Useful commands for Hypixel SkyBlock.
 | `searchauctions` | `<query>` | Displays a list of auctions that matched a search query. | `searchah` |
 | `lowestbin` | `<item>` | Displays the lowest BIN price for an item. | `lbin` |
 | `price` | `<item>` | Displays the price of an item. Uses `Jerry the Price Checker`'s database. | |
-| `weight` | `<player> [profile]` | Displays a player's weight on a specific profile. Defaults to the player's most recent profile. 
-Powered by [hypixel-api.senither.com](https://hypixel-api.senither.com). | |
+| `weight` | `<player> [profile]` | Displays a player's weight on a specific profile. Defaults to the player's most recent profile.\nPowered by [hypixel-api.senither.com](https://hypixel-api.senither.com). | |
 
 ## Utility
 
