@@ -5,7 +5,7 @@
 </a>
 
 # SkyKings
-SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
+The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
 ## Features
 
