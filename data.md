@@ -102,6 +102,9 @@ Mostly guild configuration.
 | `RANKS` | `GUILD` | The ID of the server the rank belongs to. | Used for guild rank syncing. |
 | `RANKS` | `ROLE` | The ID of the role the rank belongs to. | Used for guild rank syncing. |
 | `RANKS` | `RANK` | The name of the rank. | Used for guild rank syncing. |
+| `REQUIREMENTS` | `GUILD` | The ID of the server the rank belongs to. | Used for guild requirement checking. |
+| `REQUIREMENTS` | `REQUIREMENT` | The requirement. | Used for guild requirement checking. |
+| `REQUIREMENTS` | `VALUE` | The requirement's value. | Used for guild requirement checking. |
 
 ## Scammers
 
@@ -113,19 +116,27 @@ The bot's scammer list.
 | `PLAYERS` | `UUID` | The player's UUID. | Looking up scammers/IRL traders. |
 | `PLAYERS` | `REASON` | The reason the player is flagged as such | Looking up scammers/IRL traders. |
 | `PLAYERS` | `TYPE` | If the player is a scammer or an IRL trader | Looking up scammers/IRL traders. |
-| `PLAYERS` | `MOD` | The bot mod that added the scammer. | Nothing, yet. |
+| `PLAYERS` | `MOD` | The bot mod that added the scammer. | Shown to bot administrators when more info is requested. |
 | `PLAYERS` | `REMOVED` | Whether or not the entry was removed. | Used for deciding whether or not to show the entry. |
-| `PLAYERS` | `REMOVER` | The bot mod that removed the entry. | Nothing, yet. |
-| `PLAYERS` | `REMOVE_REASON` | The reason the entry was removed. | Nothing, yet. |
+| `PLAYERS` | `REMOVER` | The bot mod that removed the entry. | Shown to bot administrators when more info is requested. |
+| `PLAYERS` | `REMOVE_REASON` | The reason the entry was removed. | Shown to bot administrators when more info is requested. |
 | `PLAYERS` | `ID` | The entry ID. | Used for removing entries. |
 | `USERS` | `USER` | The user's ID. | Looking up scammers/IRL traders. |
 | `USERS` | `REASON` | The reason the player is flagged as such | Looking up scammers/IRL traders. |
 | `USERS` | `TYPE` | If the player is a scammer or an IRL trader | Looking up scammers/IRL traders. |
-| `USERS` | `MOD` | The bot mod that added the scammer. | Nothing, yet. |
+| `USERS` | `MOD` | The bot mod that added the scammer. | Shown to bot administrators when more info is requested. |
 | `USERS` | `REMOVED` | Whether or not the entry was removed. | Used for deciding whether or not to show the entry. |
-| `USERS` | `REMOVER` | The bot mod that removed the entry. | Nothing, yet. |
-| `USERS` | `REMOVE_REASON` | The reason the entry was removed. | Nothing, yet. |
+| `USERS` | `REMOVER` | The bot mod that removed the entry. | Shown to bot administrators when more info is requested. |
+| `USERS` | `REMOVE_REASON` | The reason the entry was removed. | Shown to bot administrators when more info is requested. |
 | `USERS` | `ID` | The entry ID. | Used for removing entries. |
+| `GUILDS` | `GUILD` | The guild's ID. | Used for stopping guilds from using shop commands. |
+| `GUILDS` | `REASON` | The reason the guild is flagged as such | Shown to guild staff when they try to use shop commands. |
+| `GUILDS` | `TYPE` | If the player is a scammer or an IRL trader | Shown to guild staff when they try to use shop commands. |
+| `GUILDS` | `MOD` | The bot mod that added the scammer. | Shown to bot administrators when more info is requested. |
+| `GUILDS` | `REMOVED` | Whether or not the entry was removed. | Used for deciding whether or not to show the entry. |
+| `GUILDS` | `REMOVER` | The bot mod that removed the entry. | Shown to bot administrators when more info is requested. |
+| `GUILDS` | `REMOVE_REASON` | The reason the entry was removed. | Shown to bot administrators when more info is requested. |
+| `GUILDS` | `ID` | The entry ID. | Used for removing entries. |
 
 ## Verification
 
