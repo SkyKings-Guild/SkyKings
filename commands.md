@@ -71,6 +71,9 @@ Useful commands for Hypixel SkyBlock.
 | `lowestbin` | `<item>` | Displays the lowest BIN price for an item. | `lbin` |
 | `price` | `<item>` | Displays the price of an item. Uses `Jerry the Price Checker`'s database. | |
 | `weight` | `<player> [profile]` | Displays a player's weight on a specific profile. Defaults to the player's most recent profile. Powered by [hypixel-api.senither.com](https://hypixel-api.senither.com). | |
+| `bits` | `<item>` | Displays the price of a item in the bit shop. | `bit` |
+| `coinsperbit` | | Displays the item with the best coins/bit. | `coinperbit`, `cpb` |
+| `guildrequirements` | `<player>` | Displays the current guild's requirements, as well as whether or not you meet them. | `guildrequirement`, `greq`, `greqs` |
 
 ## Utility
 
@@ -91,10 +94,14 @@ Commands for customizing the bot in your server!
 | `config` | | Displays the server's configuration. | `configuration` |
 | `config help` | | Get help with the config! | |
 | `config edit` | `<key> <value>` | Edit the server's configuration. | |
-| `rank` | | Manage the guild's rank configuration. | |
-| `rank add` | `<rank> <role>` | Link a guild rank to a Discord role. | `create` |
-| `rank edit` | `<rank> <role>` | Edit a Discord role/guild rank link. | `modify` |
-| `rank remove` | `<rank>` | Delete a guild rank to Discord role link. | `delete` |
+| `config rank` | | Manage the guild's rank configuration. | |
+| `config rank add` | `<rank> <role>` | Link a guild rank to a Discord role. | `create` |
+| `config rank edit` | `<rank> <role>` | Edit a Discord role/guild rank link. | `modify` |
+| `config rank remove` | `<rank>` | Delete a guild rank to Discord role link. | `delete` |
+| `config requirements` | | Manage the guild's requirement configuration. | |
+| `config requirements add` | `<requirement> <value>` | Creates a guild requirement. | `create` |
+| `config requirements edit` | `<requirement> <value>` | Edits a guild requirement. | `modify` |
+| `config requirements remove` | `<requirement>` | Deletes a guild requirement. | `delete` |
 | `setup` | | Setup the bot! | |
 | `unlink_guild` | | Undoes what `setup` does. (Unlinks your Hypixel guild from the Discord server) | |
 
@@ -130,6 +137,7 @@ Commands related to the bot.
 | `info` | | Displays some (kind of interesting) information about the bot. | |
 | `ping` | | ~~play ping-pong~~ Check the bot's ping. | |
 | `help` | `[command]` | Displays information on a command/category. | |
+| `apply` | | Generates a token for your bot moderator application and send you the application URL. | |
 
 ## Restricted
 
