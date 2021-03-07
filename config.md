@@ -5,6 +5,8 @@ Therefore, it is very important that you understand how to use it.
 
 The following explains how to modify the config, what it does, and why it does it.
 
+# Bot Configuration
+
 ## Keys
 
 A config 'key' is the argument you provide in the `config edit` command, and it tells the bot what setting you want to edit.
@@ -46,4 +48,18 @@ If you want to remove a config setting, just do `k!config edit <setting> reset`.
 
 ## Linking a Guild
 
-As you may have noticed, the `IN_GUILD` setting requires you to link your server to a guild. This can easily be done with the `setup` command, which will take you through an interactive setup process.
+As you may have noticed, the `IN_GUILD` setting requires you to link your server to a guild. This can easily be done with the `setup` command, which will take you through an interactive setup process. Ranks and guild requirements also require this.
+
+# Guild Ranks
+
+To add a guild rank to the bot, simply run the `config ranks add` command with the `rank` name and the `role`.
+
+Example: `k!config ranks add Member @Role`
+
+# Guild Requirements
+
+To add a guild requirement to the bot, simply run the `config requirements add` command with the `requirement` and the `value`.
+
+Example: `k!config requirements add weight 5000`
+
+To view a full list of requirements, run the `config requirements help` command.
