@@ -8,6 +8,11 @@
 SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 
 ## Features
+
+- Extremely Customizable
+
+    - 20 different configuration settings you can change.
+
 - IRL Trading & Scammer detection
     
     - If a irl trader / scammer is in our system, it will send a message to all servers that person is in!
@@ -16,15 +21,17 @@ SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 
     - You can use this bot to verify in other servers, and you will be verified in **all servers you are in** that has the bot also in it!
 
+    - This can be disabled with configuration settings.
+
 - Guild Ranks
 
-    - If you have another guild, you can add a role to give member of the guild automatically when they verify!
+    - If you have a guild, you can add a rank to your configuration and all members with that rank will be given a role!
 
-- Global Market & Guild Shops
+- Global Market & Server Shops
 
     - You can sell items that will be shown in all servers the bot is in!
     
-    - You can also create a guild-specific shop!
+    - You can also create a server-specific shop!
 
 - Global Events System
 
@@ -37,6 +44,8 @@ SkyKings is a bot for Hypixel Skyblock, or for ANY Hypixel guild.
 - Guild Requirements
 
     - You can check how many people in a guild are under GEXP requirements with our `gexp` command!
+
+    - You can also lookup whether or not players meet your guild's requirements or not with our `guildrequirements` command!
 
 ## Soon™
 
