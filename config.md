@@ -36,7 +36,7 @@ The list of valid keys is as follows:
 | `STATUS_PING` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role |
 | `GIVEAWAYS` | The role that should be able to run giveaways. | Role |
 
-There are currently 19 different configuration settings you can change.
+There are currently 20 different configuration settings you can change.
 
 ## Editing the Config
 
