@@ -73,6 +73,7 @@ Useful commands for Hypixel SkyBlock.
 | `weight` | `<player> [profile]` | Displays a player's weight on a specific profile. Defaults to the player's most recent profile. Powered by [hypixel-api.senither.com](https://hypixel-api.senither.com). | |
 | `bits` | `<item>` | Displays the price of a item in the bit shop. | `bit` |
 | `coinsperbit` | | Displays the item with the best coins/bit. | `coinperbit`, `cpb` |
+| `collections` | `<player>` | Displays a player's collections. | `collections` |
 | `guildrequirements` | `<player>` | Displays the current guild's requirements, as well as whether or not you meet them. | `guildrequirement`, `greq`, `greqs` |
 
 ## Utility
