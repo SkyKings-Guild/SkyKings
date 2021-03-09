@@ -144,3 +144,16 @@ Mainly for linking users to players.
 
 | `USERS` | `USER` | The ID of the user. | Checking if a user is linked, who a player is linked to, etc. |
 | `USERS` | `UUID` | The UUID of the player. | Checking if a player is linked, who a user is linked to, etc. |
+
+# Deleting your Data
+
+If you would like your data removed from the bot, please [join our support server]() and DM a bot administrator with this format:
+
+```
+**Data Deletion Request**
+
+Data to be removed: 
+
+Why you want it to be removed:
+```
+
