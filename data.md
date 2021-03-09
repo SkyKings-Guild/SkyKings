@@ -142,6 +142,8 @@ The bot's scammer list.
 
 Mainly for linking users to players.
 
+| Table | Column | Description | Used For |
+|:-----:|:------:|:-----------:|:--------:|
 | `USERS` | `USER` | The ID of the user. | Checking if a user is linked, who a player is linked to, etc. |
 | `USERS` | `UUID` | The UUID of the player. | Checking if a player is linked, who a user is linked to, etc. |
 
