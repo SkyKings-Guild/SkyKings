@@ -147,7 +147,7 @@ Mainly for linking users to players.
 
 # Deleting your Data
 
-If you would like your data removed from the bot, please [join our support server]() and DM a bot administrator with this format:
+If you would like your data removed from the bot, please [join our support server](https://discord.gg/XqUQBqTh27) and DM a bot administrator with this format:
 
 ```
 **Data Deletion Request**
