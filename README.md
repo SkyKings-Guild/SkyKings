@@ -49,6 +49,10 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
     - You can also lookup whether or not players meet your guild's requirements or not with our `guildrequirements` command!
 
+- Networth
+
+    - You can check a player's networth with our `networth` command!
+
 ## Soon™
 
 You can see our todo list [here](https://github.com/plun1331/SkyKings/projects/1).
