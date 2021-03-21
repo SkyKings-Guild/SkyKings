@@ -75,6 +75,7 @@ Useful commands for Hypixel SkyBlock.
 | `coinsperbit` | | Displays the item with the best coins/bit. | `coinperbit`, `cpb` |
 | `collections` | `<player>` | Displays a player's collections. | `cols` |
 | `guildrequirements` | `<player>` | Displays the current guild's requirements, as well as whether or not you meet them. | `guildrequirement`, `greq`, `greqs` |
+| `networth` | `<player>` | Displays a player's networth. Price is calculated using lowest BIN. | `nw` |
 
 ## Utility
 
