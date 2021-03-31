@@ -62,11 +62,9 @@ You can see our todo list [here](https://github.com/plun1331/SkyKings/projects/1
 If you have found a bug within the bot, feel free to report it to our [Support Server](https://discord.gg/XqUQBqTh27), or on our [Issue Tracker](https://github.com/plun1331/SkyKings/issues). The same goes for suggestions.
 
 ## Resources
-- [Bot Invite](https://discord.com/oauth2/authorize?client_id=797974550834053203&scope=bot&permissions=402934848)
-- [Support Server](https://discord.gg/XqUQBqTh27)
-- ["Documentation"](https://github.com/plun1331/SkyKings)
-- [Commands](https://github.com/plun1331/SkyKings/blob/main/commands.md)
-- [Configuration Guide](https://github.com/plun1331/SkyKings/blob/main/config.md)
+- [Bot Invite](https://skykings-guild.github.io/bot/invite)
+- [Support Server](https://skykings-guild.github.io/discord)
+- ["Documentation"](https://skykings-guild.github.io/bot/docs)
 
 ## Widgets
 [![Discord Bots](https://top.gg/api/widget/797974550834053203.svg)](https://top.gg/bot/797974550834053203)
