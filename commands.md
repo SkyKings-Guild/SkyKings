@@ -59,23 +59,34 @@ Useful commands for Hypixel SkyBlock.
 
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
-| `report` | `[player]` | Report a scammer or an IRL trader. | |
-| `lookup` | `<player>` | Check if a user is a scammer or an IRL trader. | `scammer`, `trader` |
-| `scammers` | | Lists every scammer/IRL trader in a Discord server. | |
 | `auctions` | `<player>` | Displays a list of a player's auctions. | `ah`, `auctionhouse` |
 | `bazaar` | `<item>` | Displays an item from the bazaar. | `baz` |
-| `playercount` | | Displays the SkyBlock player count. | `pc` |
-| `slayers` | `<player>` | Displays a player's slayers. | |
-| `skills` | `<player>` | Displays a player's skills. | |
-| `searchauctions` | `<query>` | Displays a list of auctions that matched a search query. | `searchah` |
-| `lowestbin` | `<item>` | Displays the lowest BIN price for an item. | `lbin` |
-| `price` | `<item>` | Displays the price of an item. Uses `Jerry the Price Checker`'s database. | |
-| `weight` | `<player> [profile]` | Displays a player's weight on a specific profile. Defaults to the player's most recent profile. Powered by [hypixel-api.senither.com](https://hypixel-api.senither.com). | |
 | `bits` | `<item>` | Displays the price of a item in the bit shop. | `bit` |
 | `coinsperbit` | | Displays the item with the best coins/bit. | `coinperbit`, `cpb` |
-| `collections` | `<player>` | Displays a player's collections. | `cols` |
 | `guildrequirements` | `<player>` | Displays the current guild's requirements, as well as whether or not you meet them. | `guildrequirement`, `greq`, `greqs` |
+| `lookup` | `<player>` | Check if a user is a scammer or an IRL trader. | `scammer`, `trader` |
+| `lowestbin` | `<item>` | Displays the lowest BIN price for an item. | `lbin` |
+| `playercount` | | Displays the SkyBlock player count. | `pc` |
+| `price` | `<item>` | Displays the price of an item. Uses `Jerry the Price Checker`'s database. | |
+| `report` | `[player]` | Report a scammer or an IRL trader. | |
+| `scammers` | | Lists every scammer/IRL trader in a Discord server. | |
+| `searchauctions` | `<query>` | Displays a list of auctions that matched a search query. | `searchah` |
+
+## Stats
+
+Commands for displaying player statistics.
+
+| Command | Arguments | Description | Aliases |
+|:-------:|:---------:|:-----------:|:-------:|
+| `collections` | `<player>` | Displays a player's collections. | `cols` |
+| `friends` | `<player>` | Displays a player's friends list. | |
+| `locate` | `<player>` | Locates a player on the Hypixel network. | |
 | `networth` | `<player>` | Displays a player's networth. Price is calculated using lowest BIN. | `nw` |
+| `player` | `<player>` | Displays a player's Hypixel profile, such as network level, socials, etc. | |
+| `profiles` | `<player>` | Displays a player's Skyblock profiles. | |
+| `skills` | `<player>` | Displays a player's skills. | |
+| `slayers` | `<player>` | Displays a player's slayers. | |
+| `weight` | `<player> [profile]` | Displays a player's weight on a specific profile. Defaults to the player's most recent profile. Powered by [hypixel-api.senither.com](https://hypixel-api.senither.com). | |
 
 ## Utility
 
@@ -105,6 +116,21 @@ Commands for customizing the bot in your server!
 | `config requirements edit` | `<requirement> <value>` | Edits a guild requirement. | `modify` |
 | `config requirements remove` | `<requirement>` | Deletes a guild requirement. | `delete` |
 | `setup` | | Setup the bot! | |
+| `tickets` | | Manages tickets. | `ticket` |
+| `tickets add` | `<member>` | Adds someone to a ticket. | |
+| `tickets close` | | Closes a ticket. | |
+| `tickets delete` | | Deletes a ticket. | |
+| `tickets help` | | Displays `help` for the ticket command. | |
+| `tickets panel` | | Manages ticket panels. | |
+| `tickets panel create` | | Creates a new ticket panel. | `make` |
+| `tickets panel delete` | `<panel>` | Deletes a ticket panel. | `remove` |
+| `tickets panel edit` | `<panel> <option> <value>` | Edits a ticket panel. | `modify` |
+| `tickets panel help` | | Displays help for the ticket panel command. | |
+| `tickets panel info` | `<panel>` | Displays a ticket panel's config. | `show` |
+| `tickets panel list` | | Lists every ticket panel in the server. | |
+| `tickets panel options` | | Displays a list of ticket panel options. | |
+| `tickets remove` | `<member>` | Removes someone from a ticket. | |
+| `tickets rename` | `<name>` | Renames a ticket. | |
 | `unlink_guild` | | Undoes what `setup` does. (Unlinks your Hypixel guild from the Discord server) | |
 
 ## Miscellaneous
@@ -133,13 +159,15 @@ Commands related to the bot.
 
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
-| `uptime` | | Displays the bot's uptime. | |
-| `invite` | | Provides a URL so you can add the bot to your own server. | |
-| `support` | | Sends an invite to the bot's support server. | |
-| `info` | | Displays some (kind of interesting) information about the bot. | |
-| `ping` | | ~~play ping-pong~~ Check the bot's ping. | |
-| `help` | `[command]` | Displays information on a command/category. | |
 | `apply` | | Generates a token for your bot moderator application and send you the application URL. | |
+| `commands` | `[command]` | Displays command usage. | |
+| `help` | `[command]` | Displays information on a command/category. | |
+| `info` | | Displays some (kind of interesting) information about the bot. | |
+| `invite` | | Provides a URL so you can add the bot to your own server. | |
+| `ping` | | ~~play ping-pong~~ Check the bot's ping. | |
+| `support` | | Sends an invite to the bot's support server. | |
+| `uptime` | | Displays the bot's uptime. | |
+| `votes` | `[user]` | Displays the top voters. | |
 
 ## Restricted
 
