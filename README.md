@@ -53,6 +53,10 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
     - You can check a player's networth with our `networth` command!
 
+- Ticketing
+
+    - You can easily make tickets with our ticket system!
+
 ## Soon™
 
 You can see our todo list [here](https://github.com/plun1331/SkyKings/projects/1).
