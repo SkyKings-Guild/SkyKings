@@ -35,10 +35,6 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
     
     - You can also create a server-specific shop!
 
-- Global Events System
-
-    - The bot owners can start an event and have it sent to every server that has the bot properly configured!
-
 - Hypixel Server Status
 
     - Server owners can setup the bot to send status updates from [status.hypixel.net](https://status.hypixel.net) to a channel with an optional ping!
@@ -52,6 +48,10 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 - Networth
 
     - You can check a player's networth with our `networth` command!
+
+- Events System
+
+    - Server owners can create their own events, similar to the ones we host in our Discord server!
 
 - Ticketing
 
