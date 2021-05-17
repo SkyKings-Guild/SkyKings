@@ -172,6 +172,7 @@ Commands related to the bot.
 | `info` | | Displays some (kind of interesting) information about the bot. | |
 | `invite` | | Provides a URL so you can add the bot to your own server. | |
 | `ping` | | ~~play ping-pong~~ Check the bot's ping. | |
+| `request` | | Generates a request token (or regenerates it if you already have one) and sends you a form URL. | |
 | `support` | | Sends an invite to the bot's support server. | |
 | `uptime` | | Displays the bot's uptime. | |
 | `votes` | `[user]` | Displays the top voters. | |
