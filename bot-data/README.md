@@ -12,10 +12,9 @@ You may use this data for whatever you want, with no restriction.
 | `item-aliases.json` | A list of aliases used by the SkyKings bot. | 
 | `items.json` | A list of items and their IDs. |
 
-# scuffed faq
+# FAQ
 
 **Q**: Can I contribute to this data?
+> **A**: Yes :D
 
-**A**: Yes :D
 
-#
