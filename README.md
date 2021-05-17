@@ -68,7 +68,8 @@ If you have found a bug within the bot, feel free to report it to our [Support S
 ## Resources
 - [Bot Invite](https://skykings-guild.github.io/bot/invite)
 - [Support Server](https://skykings-guild.github.io/discord)
-- ["Documentation"](https://skykings-guild.github.io/bot/docs)
+- [Documentation](https://skykings-guild.github.io/bot/docs)
+- [FAQ](https://github.com/plun1331/SkyKings/blob/main/FAQ.md)
 
 ## Widgets
 [![Discord Bots](https://top.gg/api/widget/797974550834053203.svg)](https://top.gg/bot/797974550834053203)
