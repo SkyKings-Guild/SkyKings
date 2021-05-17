@@ -5,17 +5,11 @@ If you're looking for how to edit the bot's config, click [here](/config.md)
 
 Note: Do not literally type `<>` and `[]`
 
-Note: Aliases for subcommands will not contain the parent command.
-
 ## How to Read
-Optional: `[foo]` means that this argument can be ignored.
+`<>` = Required Argument
+`[]` = Optional Argument
 
-Required: `<foo>` means that you must use this argument for the command to work
-  
-Many: `<foos...>` or `[foos...]` means that you can specify more than one. 
-  
-Multi-word Arguments: If you wish you use an argument with more than one word, use "double quotes" to let the bot you know what you want. 
-Most of the time, if a multi-word argument is at the end of a command, this is not necessary.
+If you want to input a multi-word argument, surround it in quotes "like so". This isn't neccesary for arguments at the end of commands.
 
 ## Verification
 
