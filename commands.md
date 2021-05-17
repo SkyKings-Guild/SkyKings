@@ -23,9 +23,9 @@ Verification commands so you can link your Minecraft account to your Discord.
 
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
-| `verify` | `<player>` | Links your Minecraft account to your Discord via Hypixel. | `link` |
-| `unverify` | | Unlinks your Minecraft account from your Discord. | `unlink` |
 | `sync` | | Syncs your roles in the current server. | |
+| `unverify` | | Unlinks your Minecraft account from your Discord. | `unlink` |
+| `verify` | `<player>` | Links your Minecraft account to your Discord via Hypixel. | `link` |
 | `verifyhelp` |  | Get help with verification. | `linkhelp` |
 
 ## Economy
@@ -63,6 +63,7 @@ Useful commands for Hypixel SkyBlock.
 | `bazaar` | `<item>` | Displays an item from the bazaar. | `baz` |
 | `bits` | `<item>` | Displays the price of a item in the bit shop. | `bit` |
 | `coinsperbit` | | Displays the item with the best coins/bit. | `coinperbit`, `cpb` |
+| `collection` | `<collection>` | Displays information on a SkyBlock collection. | 
 | `guildrequirements` | `<player>` | Displays the current guild's requirements, as well as whether or not you meet them. | `guildrequirement`, `greq`, `greqs` |
 | `lookup` | `<player>` | Check if a user is a scammer or an IRL trader. | `scammer`, `trader` |
 | `lowestbin` | `<item>` | Displays the lowest BIN price for an item. | `lbin` |
@@ -71,6 +72,7 @@ Useful commands for Hypixel SkyBlock.
 | `report` | `[player]` | Report a scammer or an IRL trader. | |
 | `scammers` | | Lists every scammer/IRL trader in a Discord server. | |
 | `searchauctions` | `<query>` | Displays a list of auctions that matched a search query. | `searchah` |
+| `skill` | `<skill>` | Displays information on a SkyBlock skill. | |
 
 ## Stats
 
@@ -79,7 +81,9 @@ Commands for displaying player statistics.
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
 | `collections` | `<player>` | Displays a player's collections. | `cols` |
+| `dungeons` | `<player>` | Displays a player's dungeon stats. | |
 | `friends` | `<player>` | Displays a player's friends list. | |
+| `leaderboard` | `<leaderboard>` | Displays SkyBlock leaderboards. For a list of leaderboards, run the leaderboard list command. Leaderboards provided by [SkyCrypt](https://sky.shiiyu.moe). | `lb` |
 | `locate` | `<player>` | Locates a player on the Hypixel network. | |
 | `networth` | `<player>` | Displays a player's networth. Price is calculated using lowest BIN. | `nw` |
 | `player` | `<player>` | Displays a player's Hypixel profile, such as network level, socials, etc. | |
@@ -95,8 +99,10 @@ A few useful commands that are just useful.
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
 | `gexp` | `<guild> <amount>` | Displays a list of users below a certain guild XP amount. | `guildxp`, `gxp` |
+| `guild` | `<guild>` | Displays a Hypixel guild. | |
+| `guildcheck` | | Displays a list of guild members that aren't in the Discord. | `gcheck` |
 | `status` | | Check the Hypixel server status. | |
-| `userinfo` | `<user>` | Displays information on a user. | `memberinfo`, `mi`, `ui` |
+| `userinfo` | `[user]` | Displays information on a user. | `memberinfo`, `mi`, `ui` |
 
 ## Management
 
@@ -140,12 +146,13 @@ Random commands that are somewhat useful.
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
 | `event` | | Main event command. | |
+| `event end` | | Ends an event. | |
+| `event help` | | Sends help for the `event` command. | |
+| `event info` | | Displays information on an event. | `information` |
 | `event join` | | Joins the currently running event. | |
 | `event leave` | | Leave the currently running event. | |
 | `event pos` | `[user]` | Displays a player's position in an event. | `position` |
-| `event info` | | Displays information on an event. | `information` |
-| `event start` | `<event type>` | Starts an event. | `begin` |
-| `event end` | | Ends an event. | |
+| `event start` | `<event type> <channel> [ping] <duration>` | Starts an event. | `begin` |
 | `giveaway` | | Main giveaway command. | |
 | `giveaway help` | | Displays help for the `giveaway` command. | |
 | `giveaway start` | `<duration> <prize>` | Quickly starts a giveaway. | |
