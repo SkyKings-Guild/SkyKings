@@ -13,28 +13,36 @@ A config 'key' is the argument you provide in the `config edit` command, and it 
 
 The list of valid keys is as follows:
 
-| Key | Description | Type |
-|:---:|:-----------:|:----:|
-| `PREFIX` | The bot's prefix for your server. | String (text) | 
-| `VERIFICATION` | Allows you to disable verification commands. | Boolean (yes/no) |
-| `SET_NICK` | Whether or not to change member's nicknames. | Boolean (yes/no) |
-| `NICK_PREFIX` | Whether or not to set a prefix for a member's nickname. This requires `SET_NICK` to be on. | Boolean (yes/no) |
-| `VERIFIED` | The role given to members who are verified. | Role |
-| `VIP` | The role given to members with VIP. | Role |
-| `VIP+` | The role given to members with VIP+. | Role |
-| `MVP` | The role given to members with MVP. | Role |
-| `MVP+` | The role given to members with MVP+. | Role |
-| `MVP++` | The role given to members with MVP++. | Role |
-| `YOUTUBE` | The role given to members with YouTube rank. | Role |
-| `STAFF` | The role given to Hypixel staff members. | Role |
-| `IN_GUILD` | The role given to people in the set guild. This requires the server to be linked to a Hypixel guild. | Role |
-| `STORE` | The channel that purchases are sent to to be fulfulled. | Text Channel |
-| `NOTIFY` | The channel that bot notifications are sent to. This currently includes scammer alerts. | Text Channel |
-| `EVENTS` | The channel that global events are sent to. | Text Channel |
-| `EVENTS_PING` | The role to ping when an event is started. This requires `EVENTS` to be set. | Role |
-| `STATUS` | The channel to send Hypixel status updates to. | Text Channel |
-| `STATUS_PING` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role |
-| `GIVEAWAYS` | The role that should be able to run giveaways. | Role |
+### General Bot Configuration
+| Key | Description | Type | Example |
+|:---:|:-----------:|:----:|:-------:|
+| `PREFIX` | The bot's prefix for your server. | String (text) | `k!` |
+| `TRIGGERS` | Whether or not the bot should reply to normal messages. | Boolean (yes/no) | `on` |
+| `STORE` | The channel that purchases are sent to to be fulfulled. | Text Channel | `#store-alerts` |
+| `NOTIFY` | The channel that bot notifications are sent to. This currently includes scammer alerts. | Text Channel | `#scammer-notifications` |
+| `STATUS` | The channel to send Hypixel status updates to. | Text Channel | `#hypixel-status` |
+| `STATUS_PING` | The role to ping for Hypixel status updates. This requires `STATUS` to be set. | Role | `@Status Ping` |
+| `GIVEAWAYS` | The role that should be able to run giveaways. | Role | `@Giveaway Runner` |
+| `SCAMMER_ACTION` | The action that should be taken when scammers join your server. | `kick`, `ban`, Role | `kick`, `ban`, `@Scammer` |
+| `TRADER_ACTION` | The action that should be taken when IRL traders join your server. | `kick`, `ban`, Role | `kick`, `ban`, `@IRL Trader` |
+| `NEWS` | The channel for SkyBlock news to be sent to. | Text Channel | `#news` |
+| `NEWS_PING` | The role to ping for SkyBlock news. | Role | `@News Pings` |
+
+### Verification Configuration
+| Key | Description | Type | Example |
+|:---:|:-----------:|:----:|:-------:|
+| `VERIFICATION` | Allows you to disable verification commands. | Boolean (yes/no) | `on` |
+| `NICK` | The format a member's nickname should be in. | String (text) - Supports variables `name`, `network_level`, `rank` and `cata_level`. | `[{rank}] {name}` |
+| `VERIFIED` | The role given to members who are verified. | Role | `@Verified` |
+| `VIP` | The role given to members with VIP. | Role | `@VIP` |
+| `VIP+` | The role given to members with VIP+. | Role | `@VIP+` |
+| `MVP` | The role given to members with MVP. | Role | `@MVP` |
+| `MVP+` | The role given to members with MVP+. | Role | `@MVP+` |
+| `MVP++` | The role given to members with MVP++. | Role | `@MVP++` |
+| `YOUTUBE` | The role given to members with YouTube rank. | Role | `@YT` |
+| `STAFF` | The role given to Hypixel staff members. | Role | `@Hypixel Staff` |
+| `IN_GUILD` | The role given to people in the set guild. This requires the server to be linked to a Hypixel guild. | Role | `@Guild Member` |
+
 
 There are currently 20 different configuration settings you can change.
 
