@@ -67,6 +67,8 @@ Useful commands for Hypixel SkyBlock.
 | `scammers` | | Lists every scammer/IRL trader in a Discord server. | |
 | `searchauctions` | `<query>` | Displays a list of auctions that matched a search query. | `searchah` |
 | `skill` | `<skill>` | Displays information on a SkyBlock skill. | |
+| `wiki` | `[query]` | Searches for wiki pages on the Hypixel Skyblock wiki. | |
+| `time` | | Displays the current Skyblock time and date. | |
 
 ## Stats
 
