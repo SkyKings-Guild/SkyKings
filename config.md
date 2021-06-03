@@ -27,6 +27,8 @@ The list of valid keys is as follows:
 | `TRADER_ACTION` | The action that should be taken when IRL traders join your server. | `kick`, `ban`, Role | `kick`, `ban`, `@IRL Trader` |
 | `NEWS` | The channel for SkyBlock news to be sent to. | Text Channel | `#news` |
 | `NEWS_PING` | The role to ping for SkyBlock news. | Role | `@News Pings` |
+| `DELETE_KEYS` | Whether or not the bot should delete messages with API keys. | Boolean (yes/no) | `on` |
+
 
 ### Verification Configuration
 | Key | Description | Type | Example |
@@ -42,6 +44,7 @@ The list of valid keys is as follows:
 | `YOUTUBE` | The role given to members with YouTube rank. | Role | `@YT` |
 | `STAFF` | The role given to Hypixel staff members. | Role | `@Hypixel Staff` |
 | `IN_GUILD` | The role given to people in the set guild. This requires the server to be linked to a Hypixel guild. | Role | `@Guild Member` |
+| `MEMBER_COUNT` | The channel that should be edited to display guild members. | Voice Channel | `Member Count` |
 
 
 There are currently 20 different configuration settings you can change.
