@@ -44,7 +44,7 @@ The list of valid keys is as follows:
 | `YOUTUBE` | The role given to members with YouTube rank. | Role | `@YT` |
 | `STAFF` | The role given to Hypixel staff members. | Role | `@Hypixel Staff` |
 | `IN_GUILD` | The role given to people in the set guild. This requires the server to be linked to a Hypixel guild. | Role | `@Guild Member` |
-| `MEMBER_COUNT` | The channel that should be edited to display guild members. | Voice Channel | `Member Count` |
+| `MEMBER_COUNT` | The channel that should be edited to display guild members. | Voice Channel | `#Member Count` |
 
 
 There are currently 20 different configuration settings you can change.
