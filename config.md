@@ -25,9 +25,12 @@ The list of valid keys is as follows:
 | `GIVEAWAYS` | The role that should be able to run giveaways. | Role | `@Giveaway Runner` |
 | `SCAMMER_ACTION` | The action that should be taken when scammers join your server. | `kick`, `ban`, Role | `kick`, `ban`, `@Scammer` |
 | `TRADER_ACTION` | The action that should be taken when IRL traders join your server. | `kick`, `ban`, Role | `kick`, `ban`, `@IRL Trader` |
-| `NEWS` | The channel for SkyBlock news to be sent to. | Text Channel | `#news` |
-| `NEWS_PING` | The role to ping for SkyBlock news. | Role | `@News Pings` |
-| `DELETE_KEYS` | Whether or not the bot should delete messages with API keys. | Boolean (yes/no) | `on` |
+| `NEWS` | The channel for Hypixel news to be sent to. | Text Channel | `#news` |
+| `NEWS_PING` | The role to ping for Hypixel news. | Role | `@News Ping` |
+| `PATCHNOTES` | The channel for SkyBlock patchnotes to be sent to. | Text Channel | `#patchnotes` |
+| `PATCHNOTES_PING` | The role to ping for SkyBlock patchnotes. | Role | `@Patchnotes Ping` |
+| `SKYBLOCK_DATE` | The channel that should be edited to display the current SkyBlock date. | Voice Channel | `#Skyblock Date` |
+| `MEMBER_COUNT` | The channel that should be edited to display guild members. (Premium Only) | Voice Channel | `#Member Count` |
 
 
 ### Verification Configuration
@@ -44,7 +47,6 @@ The list of valid keys is as follows:
 | `YOUTUBE` | The role given to members with YouTube rank. | Role | `@YT` |
 | `STAFF` | The role given to Hypixel staff members. | Role | `@Hypixel Staff` |
 | `IN_GUILD` | The role given to people in the set guild. This requires the server to be linked to a Hypixel guild. | Role | `@Guild Member` |
-| `MEMBER_COUNT` | The channel that should be edited to display guild members. (Premium Only) | Voice Channel | `#Member Count` |
 
 
 There are currently 20 different configuration settings you can change.
