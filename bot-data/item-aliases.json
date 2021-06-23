@@ -11,6 +11,8 @@
     "TAC": "Tactician's Sword",
     "TACTICIANS SWORD": "Tactician's Sword",
     "TACT SWORD": "Tactician's Sword",
+    "TACTS SWORD": "Tactician's Sword",
+    "TACT'S SWORD": "Tactician's Sword",
     "E BOW": "Explosive Bow",
     "E-BOW": "Explosive Bow",
     "EBOW": "Explosive Bow",
@@ -44,5 +46,10 @@
     "CUSTIVATING I": "Custivating 1",
     "HANDLE": "Necron's Handle",
     "NECRON HANDLE": "Necron's Handle",
-    "NECRONS HANDLE": "Necron's Handle"
+    "NECRONS HANDLE": "Necron's Handle",
+    "HOE BLUEPRINT": "Mathematical Hoe Blueprint",
+    "MATH HOE": "Mathematical Hoe Blueprint",
+    "MATH HOE BLUEPRINT": "Mathematical Hoe Blueprint",
+    "MATH BLUEPRINT": "Mathematical Hoe Blueprint",
+    "BLUEPRINT": "Mathematical Hoe Blueprint"
 }
