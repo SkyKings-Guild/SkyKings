@@ -29,8 +29,9 @@ The list of valid keys is as follows:
 | `NEWS_PING` | The role to ping for Hypixel news. | Role | `@News Ping` |
 | `PATCHNOTES` | The channel for SkyBlock patchnotes to be sent to. | Text Channel | `#patchnotes` |
 | `PATCHNOTES_PING` | The role to ping for SkyBlock patchnotes. | Role | `@Patchnotes Ping` |
-| `SKYBLOCK_DATE` | The channel that should be edited to display the current SkyBlock date. | Voice Channel | `#Skyblock Date` |
 | `MEMBER_COUNT` | The channel that should be edited to display guild members. (Premium Only) | Voice Channel | `#Member Count` |
+| `SKYBLOCK_DATE` | The channel that should be edited to display the current SkyBlock date. | Voice Channel | `#Skyblock Date` 
+| `EVENT_CHANNEL` | The channel that SkyBlock events should be sent to. Learn more [here](https://github.com/SkyKings-Guild/SkyKings/blob/main/skyblock-events.md). | Text Channel | `#skyblock-events` |
 
 
 ### Verification Configuration
