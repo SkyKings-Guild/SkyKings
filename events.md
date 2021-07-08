@@ -24,4 +24,35 @@ Below is a list of event types and the XP they track.
 | `CATACOMBS` | Tracks catacombs XP. |
 | `WEIGHT` | Tracks weight. Calculations are provided by Senither. |
 | `WEIGHTED_XP` | Tracks 3% of the Alchemy skill, 12% of Farming, 60% of Mining, 80% Combat, 115% Foraging, 250% Fishing, 10% Enchanting, 50% Catacombs XP and 100% slayer XP. 100% is normal XP gain. |
+
+If your server has premium, you can prefix the event type with `GVG_` (for example, `GVG_WEIGHTED_XP`) and it will make the event a Guilds vs Guilds event.
+
+## Joining an Event
+There are 2 ways to join an event:
+1. Clicking the 'Join Event' button on the leaderboard,
+2. Running the `event join` command.
+
+![image](https://user-images.githubusercontent.com/49261529/124862554-7bb63c00-df6a-11eb-8245-a180fa79e43f.png)
+
+![image](https://user-images.githubusercontent.com/49261529/124862596-8a045800-df6a-11eb-949c-29f354df09d9.png)
+
+## Leaving an Event
+If for whatever reason you would like to leave an event, you can run the `event leave` command and select `Yes`.
+
+![image](https://user-images.githubusercontent.com/49261529/124862658-a6a09000-df6a-11eb-84b0-e3b5187a9ad3.png)
+
+![image](https://user-images.githubusercontent.com/49261529/124862674-ab654400-df6a-11eb-9ea4-913dc175e6fc.png)
+
+## Checking your Position
+There are 2 ways to check your position in an event:
+1. Clicking the 'Check Position' button on the leaderboard,
+2. Running the `event position` command.
+
+![image](https://user-images.githubusercontent.com/49261529/124862783-d94a8880-df6a-11eb-9512-bc737836b833.png)
+
+![image](https://user-images.githubusercontent.com/49261529/124862799-df406980-df6a-11eb-926a-e1838defe7ac.png)
+
+
+
+
                   
