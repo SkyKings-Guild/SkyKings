@@ -32,6 +32,10 @@ The list of valid keys is as follows:
 | `MEMBER_COUNT` | The channel that should be edited to display guild members. (Premium Only) | Voice Channel | `#Member Count` |
 | `SKYBLOCK_DATE` | The channel that should be edited to display the current SkyBlock date. | Voice Channel | `#Skyblock Date` 
 | `EVENT_CHANNEL` | The channel that SkyBlock events should be sent to. Learn more [here](https://github.com/SkyKings-Guild/SkyKings/blob/main/skyblock-events.md). | Text Channel | `#skyblock-events` |
+| `GLOBAL_EVENT_CHANNEL` | The channel that global events should be sent to. (Premium Only) | Text Channel | `#events` |
+| `FETCHUR_CHANNEL` | The channel that Fetchur items should be sent to. | Text Channel | `#events` |
+| `FETCHUR_PING` | The role to ping for Fetchur items. | Role | `@Daily Fetchur` |
+
 
 
 ### Verification Configuration
