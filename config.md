@@ -74,10 +74,14 @@ To add a guild rank to the bot, simply run the `config ranks add` command with t
 
 Example: `k!config ranks add Member @Role`
 
+You can then edit it with `config ranks edit` and remove it with `config ranks remove`.
+
 # Guild Requirements
 
 To add a guild requirement to the bot, simply run the `config requirements add` command with the `requirement` and the `value`.
 
 Example: `k!config requirements add weight 5000`
+
+You can then edit it with `config requirements edit` and remove it with `config requirements remove`.
 
 To view a full list of requirements, run the `config requirements help` command.
