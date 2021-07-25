@@ -256,7 +256,7 @@
   "COMPACTOR": "Compactor",
   "ENCHANTED_DIAMOND": "Enchanted Diamond",
   "NULL_OVOID": "Null Ovoid",
-  "Soulflow": "SOULFLOW"
+  "Soulflow": "SOULFLOW",
   "ROUGH_JADE_GEM": "Rough Jade Gemstone",
   "ROUGH_AMBER_GEM": "Rough Amber Gemstone",
   "ROUGH_TOPAZ_GEM": "Rough Topaz Gemstone",
@@ -291,5 +291,5 @@
   "PERFECT_SAPPHIRE_GEM": "Perfect Sapphire Gemstone",
   "PERFECT_AMETHYST_GEM": "Perfect Amethyst Gemstone",
   "PERFECT_JASPER_GEM": "Perfect Jasper Gemstone",
-  "PERFECT_RUBY_GEM": "Perfect Ruby Gemstone",
+  "PERFECT_RUBY_GEM": "Perfect Ruby Gemstone"
 }
