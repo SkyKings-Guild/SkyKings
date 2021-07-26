@@ -18,7 +18,7 @@
     "Cultivating": 10,
     "Depth Strider": 3,
     "Dragon Hunter": 5,
-    "Efficiency": 6,
+    "Efficiency": 10,
     "Ender Slayer": 7,
     "Execute": 6,
     "Experience": 4,
@@ -85,5 +85,7 @@
     "Wisdom": 5,
     "Vampirism": 6,
     "Venomous": 6,
-    "Vicious": 5
+    "Vicious": 5,
+    "Smarty Pants": 5,
+    "Pristine": 5
 }
