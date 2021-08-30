@@ -11,7 +11,8 @@ You may use this data for whatever you want, with no restriction.
 | `enchants.json` | A list of every enchantment and their maximum values. |
 | `item-aliases.json` | A list of aliases used by the SkyKings bot. | 
 | `items.json` | A list of items and their IDs. |
-| `npc-prices.json` | A list of items and their prices at NPCs. |
+| `npc-buy-prices.json` | A list of items and their buy prices at NPCs. |
+| `npc-sell-prices.json` | A list of items and their sell prices at NPCs. |
 | `price-overrides.json` | A list of items and their prices, used by the price command. |
 
 # FAQ
