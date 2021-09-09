@@ -54,7 +54,7 @@ The list of valid keys is as follows:
 | `IN_GUILD` | The role given to people in the set guild. This requires the server to be linked to a Hypixel guild. | Role | `@Guild Member` |
 
 
-There are currently 20 different configuration settings you can change.
+There are currently 31 different configuration settings you can change.
 
 ## Editing the Config
 
