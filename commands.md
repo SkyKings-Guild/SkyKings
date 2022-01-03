@@ -22,30 +22,6 @@ Verification commands so you can link your Minecraft account to your Discord.
 | `verify` | `<player>` | Links your Minecraft account to your Discord via Hypixel. | `link` |
 | `verifyhelp` |  | Get help with verification. | `linkhelp` |
 
-## Economy
-
-Commands for buying and selling of items and/or services in Hypixel Skyblock.
-
-| Command | Arguments | Description | Aliases |
-|:-------:|:---------:|:-----------:|:-------:|
-| `shop` |  | View the server shop. | `store` | | `add reactions` |
-| `shop create` | `<item> <price> <description>` | Add an item to the server shop. | `add` |
-| `shop delete` | `<product id>` | Remove an item from the server shop. | `delete` |
-| `shop edit` | `<product id> <option> <value>` | Edit an item on the guild shop. Valid options are `price`, `desc`, and `name`. | `change` |
-| `shop info` | `<product id>` | Displays an item on the server's shop. | `information` |
-| `shop buy` | `<product id>` | Requests to purchase an item on the server's shop. | `purchase`, `order` |
-| `shop help` | | Displays help for the `shop` command. | |
-| `order` | | Main command for managing orders. | |
-| `order help` | | Displays help for the `order` command. | |
-| `order cancel` | `<order id>` | Cancels an order. This can only be used by the seller. | |
-| `order complete` | `<order id>` | Completes an order. This can only be used by the seller. | |
-| `market` | | View the global market. | |
-| `market add` | `<item> <price> <description>` | Add an item to the global market. | `create` |
-| `market delete` | `<product id>` | Remove an item from the global market. | `remove` |
-| `market edit` | `<product id> <option> <value>` | Edit an item on the global market. Valid options are `price`, `desc`, and `name`. | `change` |
-| `market info` | `<product id>` | Displays an item on the global market. | `information` |
-| `market buy` | `<product id>` | Requests to purchase an item off the global market. | `purchase`, `order` |
-| `market help` | | Displays help for the `market` command. | |
 
 ## SkyBlock
 
