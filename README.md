@@ -4,6 +4,8 @@
     </p>
 </a>
 
+### These docs may be outdated. If you would like to help update them feel free to open a pull request.
+
 # SkyKings
 The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
