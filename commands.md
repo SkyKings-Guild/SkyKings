@@ -20,7 +20,7 @@ Verification commands so you can link your Minecraft account to your Discord.
 | `/verify help` | Get help with verification. |
 
 
-#### All below commands are outdated and require updating with the new format.
+### All below commands are outdated and require updating with the new format.
 If you would like to help update them, please feel free to open a pull request.
 
 ## SkyBlock
