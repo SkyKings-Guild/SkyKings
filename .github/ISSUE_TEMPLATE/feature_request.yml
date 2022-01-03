@@ -1,0 +1,22 @@
+name: Feature Request
+description: Want something implemented into the software? Tell us about it!
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: The Feature
+      description: >
+        A detailed description of the feature you want implemented, how it works, etc.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Examples
+      description: >
+        Provide examples, if any.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: If there is anything else to say, please do so here.
