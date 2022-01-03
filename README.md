@@ -51,6 +51,10 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
     - You can easily make tickets with our ticket system!
 
+- Slash commands
+    - You can easily look thru all commands with /commands 
+
+
 ## Soon™
 
 You can see our todo list [here](https://github.com/plun1331/SkyKings/projects/1).
