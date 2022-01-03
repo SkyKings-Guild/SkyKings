@@ -16,8 +16,8 @@ The list of valid keys is as follows:
 ### General Bot Configuration
 | Key | Description | Type | Example |
 |:---:|:-----------:|:----:|:-------:|
-| `PREFIX` | The bot's prefix for your server. | String (text) | `k!` |
-| `TRIGGERS` | Whether or not the bot should reply to normal messages. | Boolean (yes/no) | `on` |
+| `PREFIX` | The bot's prefix for your server. This will be removed in April of 2022. | String (text) | `k!` | 
+| `TRIGGERS` | Whether or not the bot should reply to normal messages. This may be removed April due to the message content restriction. Learn more [here](https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Privileged-Intent-for-Verified-Bots). | Boolean (yes/no) | `on` |
 | `STORE` | The channel that purchases are sent to to be fulfulled. | Text Channel | `#store-alerts` |
 | `NOTIFY` | The channel that bot notifications are sent to. This currently includes scammer alerts. | Text Channel | `#scammer-notifications` |
 | `STATUS` | The channel to send Hypixel status updates to. | Text Channel | `#hypixel-status` |
