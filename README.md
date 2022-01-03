@@ -15,13 +15,13 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
 - IRL Trading & Scammer detection
     
-    - If a irl trader / scammer is in our system, it will send a message to all servers that person is in!
+    - If a IRL trader / scammer is in our system, it will send a message to all servers that person is in!
     
     - You can also configure the bot to ban, kick, or give a role to scammers and IRL traders!
     
 - Verification System
 
-    - You can use this bot to verify in other servers, and you will be verified in **all servers you are in** that has the bot also in it!
+    - You can use this bot to verify in other servers, and you will be verified in all servers with the bot!
 
     - This can be disabled with configuration settings.
 
@@ -35,7 +35,7 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
 - Guild Requirements
 
-    - You can check how many people in a guild are under GEXP requirements with our `gexp` command!
+    - You can check how many people in a guild are under GEXP requirements with our `guildxp` command!
 
     - You can also lookup whether or not players meet your guild's requirements or not with our `guildrequirements` command!
 
