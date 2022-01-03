@@ -149,7 +149,3 @@ Commands related to the bot.
 | `uptime` | | Displays the bot's uptime. | |
 | `votes` | `[user]` | Displays the top voters. | |
 
-## Restricted
-
-Restricted commands shall remain undocumented, as there really isn't any reason to document them.
-
