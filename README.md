@@ -58,11 +58,9 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
 ## Soon™
 
-You can see our todo list [here](https://github.com/plun1331/SkyKings/projects/1).
+You can see our todo list [here](https://github.com/orgs/SkyKings-Guild/projects/1).
 
-## Other Information
-
-If you have found a bug within the bot, feel free to report it to our [Support Server](https://discord.gg/XqUQBqTh27), or on our [Issue Tracker](https://github.com/plun1331/SkyKings/issues). The same goes for suggestions.
+Have a feature request or want to report a bug? Open an issue [here](https://github.com/orgs/SkyKings-Guild/projects/1).
 
 ## Resources
 - [Bot Invite](https://skykings.net/bot/invite)
