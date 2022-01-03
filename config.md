@@ -16,7 +16,7 @@ The list of valid keys is as follows:
 ### General Bot Configuration
 | Key | Description | Type | Example |
 |:---:|:-----------:|:----:|:-------:|
-| `PREFIX` | The bot's prefix for your server. | String (text) | `k!` |
+| `PREFIX` | The bot's prefix for your server. | String (text) | `k!` | NOTE: Custom prefixes will be removed on 1st of april.2022 due to message content restriction. | Learn more [here](https://discord.gg/zExn59vmyE).
 | `TRIGGERS` | Whether or not the bot should reply to normal messages. | Boolean (yes/no) | `on` |
 | `STORE` | The channel that purchases are sent to to be fulfulled. | Text Channel | `#store-alerts` |
 | `NOTIFY` | The channel that bot notifications are sent to. This currently includes scammer alerts. | Text Channel | `#scammer-notifications` |
