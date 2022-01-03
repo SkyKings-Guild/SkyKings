@@ -1,27 +1,27 @@
 # Commands
-SkyKings has a ton of commands that you can use. Here's a list of them all.
+SkyKings has a ton of commands that you can use. Just to be helpful, here's a list of them all.
+
+You can also view a full list of commands within Discord by typing `/` and selecting `SkyKings`.
 
 If you're looking for how to edit the bot's config, click [here](/config.md)
 
-Note: Do not literally type `<>` and `[]`
-
-## How to Read
-`<>` = Required Argument
-`[]` = Optional Argument
-
-If you want to input a multi-word argument, surround it in quotes "like so". This isn't neccesary for arguments at the end of commands.
+Arguments can be viewed while typing out commands.
 
 ## Verification
 
 Verification commands so you can link your Minecraft account to your Discord.
 
-| Command | Arguments | Description | Aliases |
-|:-------:|:---------:|:-----------:|:-------:|
-| `sync` | | Syncs your roles in the current server. | |
-| `unverify` | | Unlinks your Minecraft account from your Discord. | `unlink` |
-| `verify` | `<player>` | Links your Minecraft account to your Discord via Hypixel. | `link` |
-| `verifyhelp` |  | Get help with verification. | `linkhelp` |
+| Command | Description |
+|:-------:|:---------:|
+| `/verify sync` | Syncs your roles in the current server. | |
+| `/unverify` | Unlinks your Minecraft account from your Discord. |
+| `/verify hypixel` | Links your Minecraft account to your Discord via Hypixel. |
+| `/verify website` | Links your Minecraft account to your Discord via [our Website](https://skykings.net). |
+| `/verify help` | Get help with verification. |
 
+
+#### All below commands are outdated and require updating with the new format.
+If you would like to help update them, please feel free to open a pull request.
 
 ## SkyBlock
 
