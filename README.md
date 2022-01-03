@@ -29,12 +29,6 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 
     - If you have a guild, you can add a rank to your configuration and all members with that rank will be given a role!
 
-- Global Market & Server Shops
-
-    - You can sell items that will be shown in all servers the bot is in!
-    
-    - You can also create a server-specific shop!
-
 - Hypixel Server Status
 
     - Server owners can setup the bot to send status updates from [status.hypixel.net](https://status.hypixel.net) to a channel with an optional ping!
@@ -56,6 +50,11 @@ The best bot for your Hypixel Skyblock Discord servers, or your Hypixel guilds.
 - Ticketing
 
     - You can easily make tickets with our ticket system!
+
+- Slash Commands
+
+    - You can easily look through and complete bot commands with slash commands!
+
 
 ## Soon™
 
