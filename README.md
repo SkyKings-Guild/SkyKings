@@ -1,4 +1,4 @@
-<a href="https://discord.gg/XqUQBqTh27">
+<a href="https://discord.gg/skykings">
     <p align="center">
         <img width="300" height="300" src="https://i.imgur.com/sPBmNZY.png" alt="SkyKings Logo">
     </p>
@@ -70,7 +70,3 @@ If you have found a bug within the bot, feel free to report it to our [Support S
 - [Documentation](https://skykings.net/bot/docs)
 - [FAQ](https://github.com/plun1331/SkyKings/blob/main/FAQ.md)
 
-## Widgets
-[![Discord Bots](https://top.gg/api/widget/797974550834053203.svg)](https://top.gg/bot/797974550834053203)
-
-[![Discord Bot List](https://discordbotlist.com/bots/797974550834053203/widget)](https://discordbotlist.com/bots/797974550834053203)
