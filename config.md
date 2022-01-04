@@ -58,7 +58,7 @@ There are currently 31 different configuration settings you can change.
 
 ## Editing the Config
 
-Editing the config is quite simple. Simply run the `config edit` command with the key and value like so.
+Editing the config is quite simple. Simply run the `config edit` command with the key and value like so. Note: This will be removed on 1.4.2022 due to message content restriction. Read more [here](https://support-dev.discord.com/hc/en-us/articles/4404772028055).
 
 Example: `k!config edit PREFIX !`
 
