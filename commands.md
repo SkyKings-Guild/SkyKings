@@ -46,7 +46,6 @@ Useful commands for Hypixel SkyBlock.
 | `/skyblock skill` | Displays information on a SkyBlock skill. |
 | `/skyblock time` | Displays the current Skyblock time and date. |
 | `/skyblock wiki` | Searched for pages on the Hypixel Skyblock wiki. |
-| `collection` | `<collection>` | Displays information on a SkyBlock collection. | 
 
 ### All below commands are outdated and require updating with the new format.
 If you would like to help update them, please feel free to open a pull request.
