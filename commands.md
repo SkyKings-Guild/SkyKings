@@ -19,32 +19,37 @@ Verification commands so you can link your Minecraft account to your Discord.
 | `/verify website` | Links your Minecraft account to your Discord via [our Website](https://skykings.net). |
 | `/verify help` | Get help with verification. |
 
-
-### All below commands are outdated and require updating with the new format.
-If you would like to help update them, please feel free to open a pull request.
-
 ## SkyBlock
 
 Useful commands for Hypixel SkyBlock.
 
-| Command | Arguments | Description | Aliases |
-|:-------:|:---------:|:-----------:|:-------:|
-| `auctions` | `<player>` | Displays a list of a player's auctions. | `ah`, `auctionhouse` |
-| `bazaar` | `<item>` | Displays an item from the bazaar. | `baz` |
-| `bits` | `<item>` | Displays the price of a item in the bit shop. | `bit` |
-| `coinsperbit` | | Displays the item with the best coins/bit. | `coinperbit`, `cpb` |
+| Command | Description |
+|:-------:|:-----------:|
+| `/auctions` | Displays a list of a player's auctions. |
+| `/bazaar` | Displays an item from the bazaar. |
+| `/bits` | Displays the price of a item in the bit shop. |
+| `/coinsperbit` | Displays the items with the best coins/bit. |
+| `/guildrequirements` | Displays the current guild's requirements, as well as whether or not you meet them. |
+| `/lookup player` | Check if a player is a scammer or an IRL trader. |
+| `/lookup user` | Check if a Discord user is a scammer or an IRL trader. |
+| `/lookup list` | Lists every scammer/IRL trader in a Discord server. |
+| `/lookup guild` | Lists every scammer/IRL trader in a guild. |
+| `/lowestbin` | Displays the lowest BIN price for an item. |
+| `/playercount` | Displays the Hypixel player count. |
+| `/price` | Calculates the price of an item. |
+| `/report` | Report a scammer or an IRL trader. |
+| `/searchauctions` | Displays a list of auctions that matched a search query. |
+| `/skyblock collection` | Displays information on a SkyBlock collection. |
+| `/skyblock item` | Displays information on a SkyBlock item. |
+| `/skyblock leaderboard list` | Displays a list of SkyBlock leaderboards. |
+| `/skyblock leaderboard view` | Displays SkyBlock leaderboards. |
+| `/skyblock skill` | Displays information on a SkyBlock skill. |
+| `/skyblock time` | Displays the current Skyblock time and date. |
+| `/skyblock wiki` | Searched for pages on the Hypixel Skyblock wiki. |
 | `collection` | `<collection>` | Displays information on a SkyBlock collection. | 
-| `guildrequirements` | `<player>` | Displays the current guild's requirements, as well as whether or not you meet them. | `guildrequirement`, `greq`, `greqs` |
-| `lookup` | `<player>` | Check if a user is a scammer or an IRL trader. | `scammer`, `trader` |
-| `lowestbin` | `<item>` | Displays the lowest BIN price for an item. | `lbin` |
-| `playercount` | | Displays the SkyBlock player count. | `pc` |
-| `price` | `<item>` | Displays the price of an item. Uses `Jerry the Price Checker`'s database. | |
-| `report` | `[player]` | Report a scammer or an IRL trader. | |
-| `scammers` | | Lists every scammer/IRL trader in a Discord server. | |
-| `searchauctions` | `<query>` | Displays a list of auctions that matched a search query. | `searchah` |
-| `skill` | `<skill>` | Displays information on a SkyBlock skill. | |
-| `wiki` | `[query]` | Searches for wiki pages on the Hypixel Skyblock wiki. | |
-| `time` | | Displays the current Skyblock time and date. | |
+
+### All below commands are outdated and require updating with the new format.
+If you would like to help update them, please feel free to open a pull request.
 
 ## Stats
 
