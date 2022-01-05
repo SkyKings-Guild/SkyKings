@@ -143,8 +143,8 @@ Commands related to the bot.
 | Command | Arguments | Description | Aliases |
 |:-------:|:---------:|:-----------:|:-------:|
 | `/apply` | | Generates a token for your bot moderator application and send you the application URL. Note: They are closed | |
-| `/commands` | `[command]` | Displays command usage. | |
-| `/help` | `[command]` | Displays information on a command/category. | |
+| `k!commands` | `[command]` | Displays command usage. | |
+| `k!help` | `[command]` | Displays information on a command/category. | |
 | `/info` | | Displays some (kind of interesting) information about the bot. | |
 | `/invite` | | Provides a URL so you can add the bot to your own server. | |
 | `/ping` | | Check the bot's ping. | |
@@ -153,3 +153,12 @@ Commands related to the bot.
 | `/uptime` | | Displays the bot's uptime. | |
 | `/votes` | `[user]` | Displays the top voters. | |
 
+## Games
+
+Commands related to games 
+
+|`/games rock-paper-scissors opponent` | `[opponent]` | Starts game of rock paper scissors you can view how to play game [here](https://wrpsa.com/the-official-rules-of-rock-paper-scissors)
+
+| `/games minesweeper` | `bombs` | Starts a game of minesweeper you can view how to play game [here](https://www.instructables.com/How-to-play-minesweeper/)
+
+| `/games tic-tac-toe`| ` opponent` | Starts a game of tic tac toe you can view how to play game [here](https://www.wikihow.com/Play-Tic-Tac-Toe)
