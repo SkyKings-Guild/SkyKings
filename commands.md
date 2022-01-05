@@ -160,5 +160,5 @@ Commands related to games
 | Command | Arguments | Description | 
 |:-------:|:---------:|:-----------:|
 | `/games rock-paper-scissors opponent` | `[opponent]` | Starts game of rock paper scissors you can view how to play game [here](https://wrpsa.com/the-official-rules-of-rock-paper-scissors) | |
-| `/games minesweeper` | `bombs` | Starts a game of minesweeper you can view how to play game [here](https://www.instructables.com/How-to-play-minesweeper/) | |
-| `/games tic-tac-toe`| ` opponent` | Starts a game of tic tac toe you can view how to play game [here](https://www.wikihow.com/Play-Tic-Tac-Toe) | |
+| `/games minesweeper` | `[bombs]` | Starts a game of minesweeper you can view how to play game [here](https://www.instructables.com/How-to-play-minesweeper/) | |
+| `/games tic-tac-toe`| `[opponent]` | Starts a game of tic tac toe you can view how to play game [here](https://www.wikihow.com/Play-Tic-Tac-Toe) | |
