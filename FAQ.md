@@ -14,5 +14,10 @@ Why isn't the bot changing member nicknames?
 > 1. The bot does not have the `manage nicknames` permission, or
 > 2. The member's top role is above or equal to the bot's top role.
 
+Why are slash commands not appearing in my server?
+> For slash commands to work, the bot needs the `application.commands` scope, which can be granted by reinviting the bot with [this invite](https://skykings.net/bot/invite).
+> It may also require the `use application commands` permission.
+
+
 
 If you have a question that wasn't answered here, feel free to join our [Discord](https://skykings.net/discord).
