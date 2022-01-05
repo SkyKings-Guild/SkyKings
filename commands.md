@@ -162,3 +162,7 @@ Commands related to games
 | `/games rock-paper-scissors opponent` | `[opponent]` | Starts game of rock paper scissors you can view how to play game [here](https://wrpsa.com/the-official-rules-of-rock-paper-scissors) | |
 | `/games minesweeper` | `[bombs]` | Starts a game of minesweeper you can view how to play game [here](https://www.instructables.com/How-to-play-minesweeper/) | |
 | `/games tic-tac-toe`| `[opponent]` | Starts a game of tic tac toe you can view how to play game [here](https://www.wikihow.com/Play-Tic-Tac-Toe) | |
+
+
+Credits: M4aXim#5591, TornadoMC#6676, Altpapier#4847, plun1331#5535
+
