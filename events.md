@@ -2,7 +2,7 @@
 Events are a fairly unique feature of our bot. They work similar to the events in our [Discord](https://discord.gg/XqUQBqTh27).
 
 ## Starting an Event
-Starting an event is very simple, just run the `k!event start` command with the event type, 
+Starting an event is very simple, just run the `/event start` command with the event type, 
 the channel the leaderboard should be in, a role to ping (optional), and the event duration.
 
 ![image](https://user-images.githubusercontent.com/49261529/124861527-a0a9af80-df68-11eb-9d7b-6dd08313df95.png)
@@ -30,7 +30,7 @@ If your server has premium, you can prefix the event type with `GVG_` (for examp
 ## Joining an Event
 There are 2 ways to join an event:
 1. Clicking the 'Join Event' button on the leaderboard,
-2. Running the `event join` command.
+2. Running the `/event join` command.
 
 ![image](https://user-images.githubusercontent.com/49261529/124862554-7bb63c00-df6a-11eb-8245-a180fa79e43f.png)
 
@@ -46,7 +46,7 @@ If for whatever reason you would like to leave an event, you can run the `event 
 ## Checking your Position
 There are 2 ways to check your position in an event:
 1. Clicking the 'Check Position' button on the leaderboard,
-2. Running the `event position` command.
+2. Running the `/event position` command.
 
 ![image](https://user-images.githubusercontent.com/49261529/124862783-d94a8880-df6a-11eb-9512-bc737836b833.png)
 
